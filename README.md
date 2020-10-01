@@ -57,7 +57,7 @@ If this code is helpful for your study, please cite:
 
 ```
 @ARTICLE{8990108,
-  author={Y. {Xie} and J. {Zhang} and Y. {Xia} and C. {Shen}},
+  author={Yutong Xie and Jianpeng Zhang and Yong Xia and Chunhua Shen},
   journal={IEEE Transactions on Medical Imaging}, 
   title={A Mutual Bootstrapping Model for Automated Skin Lesion Segmentation and Classification}, 
   year={2020},
