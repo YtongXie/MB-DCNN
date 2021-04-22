@@ -1,1 +1,1 @@
-Annotaions
+Segmentation masks
