@@ -21,7 +21,7 @@ git clone https://github.com/YtongXie/MB-DCNN.git
 cd MB-DCNN
 ```
 ### 1. Data Preparation
-* Download [ISIC2017 dataset](https://challenge.kitware.com/#challenge/583f126bcad3a51cc66c8d9a), [Extra 1320 images](https://www.isic-archive.com/#!/topWithHeader/onlyHeaderTop/gallery?filter=%5B%5D)(The ID information of the extra 1320 images is listed in [here](https://drive.google.com/file/d/1XkXPqxT5zJb0OJogsbtb_pCNlwv5qm4m/view?usp=sharing)) <br/>
+* Download [ISIC2017 dataset](https://challenge.isic-archive.com/data), [Extra 1320 images](https://www.isic-archive.com/#!/topWithHeader/onlyHeaderTop/gallery?filter=%5B%5D)(The ID information of the extra 1320 images is listed in [here](https://drive.google.com/file/d/1XkXPqxT5zJb0OJogsbtb_pCNlwv5qm4m/view?usp=sharing)) <br/>
 
 * Put the data under `./dataset/data/` 
 
