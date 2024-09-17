@@ -71,4 +71,4 @@ The codes for Deeplabv3+ network and Xception network are reused from the [YudeW
 Thanks to [YudeWang](https://github.com/YudeWang/deeplabv3plus-pytorch) and [Cadene](https://github.com/Cadene/pretrained-models.pytorch) for the pretrained weights for Deeplabv3+ network and Xception network.
 
 ### Contact
-Yutong Xie (xuyongxie@mail.nwpu.edu.cn)
+Yutong Xie (yutong.xie678@gmail.com)
